@@ -8,7 +8,8 @@ This PLECS standalone library was created to add different components that are n
     - Power part of an inverter with an LCL filter
 * **Grid components**
     - Multiphase load with different configuration 
-    - , lines and an ideal grid
+    - Pi-section lines
+    - Ideal grid
 * **Transformations**
     - Power calculation
     - abc -> dq0 and vice-versa
