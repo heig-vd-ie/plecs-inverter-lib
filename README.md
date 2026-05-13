@@ -23,3 +23,15 @@ This PLECS standalone library was created to add different components that are n
     - Rotating field direction detector
     - And many more...
 * **Complex operators**
+    - Product
+    - Division
+    - Conjugate
+    - Complex power
+    - And many more...
+* **Type conversion**
+    - uint8 to byte
+    - byte to uint8
+    - uint16 to 16 bits
+    - 16 bits to uint16
+    - SPI pack : pack float32 to send over SPI
+    - SPI unpack : unpack message sent over SPI to float32
